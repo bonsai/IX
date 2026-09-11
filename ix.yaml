@@ -1,0 +1,42 @@
+name: IX
+meaning: Idol Transformation
+subject:
+  - idol
+  - fan_relationship
+  - idol_market
+actor: idol_producer
+
+principle: >-
+  IX designs, observes, and updates the relationship between idols and fans.
+
+cycle:
+  - observe
+  - segment
+  - hypothesize
+  - position
+  - communicate
+  - measure
+  - learn
+  - update
+
+inputs:
+  - market_data
+  - idol_research
+  - fan_signals
+  - cultural_signals
+  - business_constraints
+
+outputs:
+  - fan_model
+  - idol_model
+  - positioning
+  - activity_plan
+  - campaign
+  - measurement
+  - learning
+
+relations:
+  mx: market_customer_relationship
+  bizx: business_value_revenue_organization
+  dx: field_business_customer_data
+  ax: accurate_execution_of_change
