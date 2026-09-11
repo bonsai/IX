@@ -1,0 +1,40 @@
+name: IdolX
+role: idol_relationship_designer
+
+principle: >-
+  IdolX is not merely idol production; it designs, observes,
+  measures, and updates the relationship between an idol and fans.
+
+inputs:
+  - idol_research
+  - market_data
+  - fan_signals
+  - cultural_signals
+  - business_constraints
+
+activities:
+  - research
+  - segmentation
+  - hypothesis
+  - positioning
+  - activity_design
+  - communication
+  - measurement
+  - learning
+  - iteration
+
+outputs:
+  - idol_concept
+  - fan_model
+  - positioning
+  - content_plan
+  - live_plan
+  - campaign
+  - measurement
+  - learning
+
+relationship:
+  subject: idol
+  object: fan
+  target: relationship
+  feedback_source: fan_and_market
